@@ -1,0 +1,6 @@
+print("Student scores: ")
+s1 = float(input("Enter Student 1 Score: "))
+s2 = float(input("Enter Student 2 Score: "))
+s3 = float(input("Enter Student 3 Score: "))
+average = ((s1+s2+s3)/3)
+print("Average: ",average)
